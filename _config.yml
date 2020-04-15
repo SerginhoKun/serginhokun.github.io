@@ -3,21 +3,21 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Serge Laguerre
+title: Web Developer
+email: serge.laguerre@outlook.com
+# website: www.github.com/sproogen/resume-theme
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: Serginho_kun
+github_username:  SerginhoKun
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: chillwildlife
+# linkedin_username: jameswgrant
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
